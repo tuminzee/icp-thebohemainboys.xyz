@@ -1,0 +1,23 @@
+{
+  "canisters": {
+    "icpTBB_frontend": {
+      "frontend": {
+        "entrypoint": "out/index.html"
+      },
+      "source": [
+        "out"
+      ],
+      "type": "assets"
+    }
+  },
+  "networks": {
+    "ic": {
+      "providers": [
+        "https://mainnet.dfinity.network"
+      ],
+      "type": "persistent"
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}

@@ -1,0 +1,413 @@
+[
+  {
+    "id": 1,
+    "background": "/dark/assets/imgs/cuixmala/453A3479-2048x1157.webp",
+    "link": "cuixmala",
+    "place": "Mexico",
+    "type": "Ultra Luxe Stay",
+    "title": "Cuixmala",
+    "desc": {
+      "name": "Cuixmala",
+      "location": "Manzanillo, Mexico",
+      "category": "Ultra Luxe Stay",
+      "loyalty-points": null,
+      "area": "30,000 acres",
+      "subtext0": "Residing alongside five kilometers of pristine Mexican coastline is the Chamela-Cuixmala Biosphere Reserve. Within this oasis sits Cuixmala",
+      "subtext1": "Located on Mexico’s breathtaking Pacific Coast, in the state of Jalisco. Río Cuixmala courses the estate’s southern border, from the northern boundary, vast hills look out over the c plantation towards the Pacific Ocean, and to the east, bamboo groves and mango trees in their thousands.",
+      "list0": [
+        "Butler",
+        "Private beach",
+        "Tennis court",
+        "Spa & private swimming pools"
+      ],
+      "list1": [
+        "Organic farm",
+        "13 Private bungalows",
+        "3 Villas",
+        "3 Restaurants"
+      ],
+      "next": {
+        "link": "lotte-new-york-palace",
+        "title": "Lotte New York Palace",
+        "type": "Ultra Luxe Stay"
+      },
+      "imgs": [
+        "/dark/assets/imgs/cuixmala/22.webp",
+        "/dark/assets/imgs/cuixmala/453A3314-2048x1157.webp",
+        "/dark/assets/imgs/cuixmala/453A3479-2048x1157.webp",
+        "/dark/assets/imgs/cuixmala/453A3582-2048x1157.webp",
+        "/dark/assets/imgs/cuixmala/CUIXMALA_BUNGALOWS_2.webp",
+        "/dark/assets/imgs/cuixmala/29.webp",
+        "/dark/assets/imgs/cuixmala/43.webp",
+        "/dark/assets/imgs/cuixmala/DJI_0044-2048x1157.webp",
+        "/dark/assets/imgs/cuixmala/ALBORADA-081-Edit-Edit-2048x1157.webp",
+        "/dark/assets/imgs/cuixmala/CUIXMALA_CASA CUIXMALA POOL MEXICO.webp",
+        "/dark/assets/imgs/cuixmala/FEATURED_1-7.webp"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "background": "/dark/assets/imgs/lotte-new-york-palace/lotte-ny-palace-new york city usa.webp",
+    "link": "lotte-new-york-palace",
+    "place": "USA",
+    "type": "Ultra Luxe Stay",
+    "title": "Lotte New York Palace",
+    "desc": {
+      "name": "Lotte New York Palace",
+      "location": "New York City, USA",
+      "category": "Ultra Luxe Stay",
+      "loyalty-points": null,
+      "room": "909",
+      "subtext0": "A historic property facing right onto Madison Avenue",
+      "subtext1": "Lotte New York Palace has long reigned as New York City’s most iconic and instantly recognizable hotel. Offering two remarkable experiences within The Palace and The Towers, this stately and historic landmark exudes sophistication and luxury in Midtown Manhattan which opened in 1974.",
+      "list0": [
+        "30,000 sqft of event space",
+        "2 Restaurants",
+        "4 Bars",
+        "Spa & Wellness"
+      ],
+      "list1": [
+        "Les Clefs d'Or concierge",
+        "87 Suites",
+        "39 Palace rooms",
+        "Salon services"
+      ],
+      "next": {
+        "link": "balkan-explorer",
+        "title": "Balkan Explorer",
+        "type": "Experience"
+      },
+      "imgs": [
+        "/dark/assets/imgs/lotte-new-york-palace/0_JEWEL-SUITE-TERRACE-G.jpg",
+        "/dark/assets/imgs/lotte-new-york-palace/lotte-ny-palace-new york city usa.webp",
+        "/dark/assets/imgs/lotte-new-york-palace/lotte-ny-palace-new york city usa11.webp",
+        "/dark/assets/imgs/lotte-new-york-palace/lotte-ny-palace-new york city usa119.webp",
+        "/dark/assets/imgs/lotte-new-york-palace/Exterior-LotteNewYorkPalace-NYC-CRHotel.webp",
+        "/dark/assets/imgs/lotte-new-york-palace/lotte-ny-palace-new york city usa119.webp",
+        "/dark/assets/imgs/lotte-new-york-palace/Lotte-New-York-Palace-Jewel-Suite-Terrace-1270.webp",
+        "/dark/assets/imgs/lotte-new-york-palace/9-Lotte-New-York-Palace-Jewel-Suite-1900.webp",
+        "/dark/assets/imgs/lotte-new-york-palace/2-Lotte-New-York-Palace-Rareties-1900.webp",
+        "/dark/assets/imgs/lotte-new-york-palace/loungee lotte.webp"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "background": "/dark/assets/imgs/balkan-explorer/te-lun-ou-yang-dw-Ef4D3FpY-unsplash.jpg",
+    "link": "balkan-explorer",
+    "place": "Italy",
+    "type": "Experience",
+    "title": "Balkan Explorer",
+    "desc": {
+      "name": "Balkan Explorer",
+      "location": "Italy, Croatia, Greece, Turkey",
+      "advance-booking": "1 month prior",
+      "category": "Europe | Mountains | Train",
+      "subtext0": "Embark on an unforgettable journey aboard the Golden Eagle Danube Express Train. ",
+      "subtext1": "Traverse many countries from Italy to Turkey, with stops in scenic spots like Slovenia, Croatia, and Greece. Experience the rich blend of cultures, ancient tales, and architectural wonders. Get ready for a captivating adventure that paints the vivid colors of history and landscapes across your memories! All aboard for an epic ride!",
+      "list0": [
+        "Day 1 Arrive Venice, Italy",
+        "Day 2 Venice | Exploring La Serenissima",
+        "Day 3 Trieste | Medieval splendors",
+        "Day 4 Ljubljana, Slovenia | Castles, knights & dragons",
+        "Day 5 Sarajevo & Mostar, Bosnia | Special museum visit",
+        "Day 6 Dubrovnik, Croatia | Mediterranean gem"
+      ],
+      "list1": [
+        "Day 7 Belgrade, Serbia | Fortress visit",
+        "Day 8 Skopje, North Macedonia, Greece | Scenic old town",
+        "Day 9 Sofia & Plovdiv, Bulgaria | Roman amphitheater",
+        "Day 10 Istanbul, Turkey | Hagia Sofia",
+        "Day 11 Topkapi palace & Grand bazaar",
+        "Day 12 Depart Istanbul"
+      ],
+      "next": {
+        "link": "rosewood-castiglion-del-bosco",
+        "title": "Rosewood Castiglion del Bosco",
+        "type": "Ultra Luxe Stay"
+      },
+      "imgs": [
+        "/dark/assets/imgs/balkan-explorer/te-lun-ou-yang-dw-Ef4D3FpY-unsplash.jpg",
+        "/dark/assets/imgs/balkan-explorer/_app9533phnet.jpg",
+        "/dark/assets/imgs/balkan-explorer/anna-berdnik-0n0AHB1fgTQ-unsplash.jpg",
+        "/dark/assets/imgs/balkan-explorer/Belmond20Scotsman_TRS-REST-03.webp",
+        "/dark/assets/imgs/balkan-explorer/mike-petrucci-k9DHPwtRb80-unsplash.jpg",
+        "/dark/assets/imgs/balkan-explorer/Breitenstein - Kalte Rinne viaduct.jpg",
+        "/dark/assets/imgs/balkan-explorer/de_swiss_alps_1.jpeg",
+        "/dark/assets/imgs/balkan-explorer/frantisek-duris-E3m55QwJqUY-unsplash.jpg",
+        "/dark/assets/imgs/balkan-explorer/Hotel-Exterior-937x1024-1.jpg",
+        "/dark/assets/imgs/balkan-explorer/https___i.travelapi.com_lodging_6000000_5140000_5136000_5135913_3e977b82_z.jpg",
+        "/dark/assets/imgs/balkan-explorer/Kubbeli-Saloon-1-1024x815-1.jpg",
+        "/dark/assets/imgs/balkan-explorer/Monaco_Grand_Canal-Venice.jpg",
+        "/dark/assets/imgs/balkan-explorer/Monaco_Grand_Canal-Venice-Terrace-5185.jpg",
+        "/dark/assets/imgs/balkan-explorer/tom-podmore-1cVR_v5NeCw-unsplash.jpg",
+        "/dark/assets/imgs/balkan-explorer/14CHECKIN-jumbo.webp"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "background": "/dark/assets/imgs/rosewood-castiglion-del-bosco/RWCdB_DavideLovatti_April2023_CasaVescovo_Bedroom_2_WIDE-LARGE-16-9.webp",
+    "link": "rosewood-castiglion-del-bosco",
+    "place": "Italy",
+    "type": "Ultra Luxe Stay",
+    "title": "Rosewood Castiglion del Bosco",
+    "desc": {
+      "name": "Rosewood Castiglion del Bosco",
+      "location": "Tuscany, Italy",
+      "category": "Ultra Luxe Stay",
+      "loyalty-points": null,
+      "area": "5000 acres",
+      "subtext0": "The sprawling Tuscan estate you've always dreamed of staying in.",
+      "subtext1": "Rosewood Castiglion del Bosco offers 42 suites that exude a rich sense of authenticity, with heritage features, antique furnishings, local textiles and artisanal accessories. In addition, 11 one-of-a-kind luxury Tuscan villas dot the landscape, each created from restored 17th- and 18th-century Tuscan farmhouses.",
+      "list0": [
+        "Cooking school",
+        "On-site winery",
+        "Private golf club",
+        "Bocce and tennis courts"
+      ],
+      "list1": [
+        "Private helipad and helicopter",
+        "42 Suites",
+        "11 Villas",
+        "Panoramic heated infinity pool"
+      ],
+      "next": {
+        "link": "african-safari",
+        "title": "African Safari",
+        "type": "Experience"
+      },
+      "imgs": [
+        "/dark/assets/imgs/rosewood-castiglion-del-bosco/Rosewood Castiglion del Bosco, Tuscany - Italy.webp",
+        "/dark/assets/imgs/rosewood-castiglion-del-bosco/Rosewood-Castiglion-del-Bosco_2018_CDB_66166382__MG_4220.webp",
+        "/dark/assets/imgs/rosewood-castiglion-del-bosco/Rosewood-Castiglion-del-Bosco_RWCdB---Agresto-Annex.webp",
+        "/dark/assets/imgs/rosewood-castiglion-del-bosco/Rosewood-Castiglion-del-Bosco_RWCdB---Osteria-la-Canonica.webp",
+        "/dark/assets/imgs/rosewood-castiglion-del-bosco/Rosewood-Castiglion-del-Bosco_RWCdB---Ristorante-Campo-del-Drago.webp",
+        "/dark/assets/imgs/rosewood-castiglion-del-bosco/RWCdB---Villa-Agresto-Living-Corner-Rosewood-Castiglion-del-Bosco-mar23-pr-global.webp",
+        "/dark/assets/imgs/rosewood-castiglion-del-bosco/RWCdB_DavideLovatti_April2023_CasaVescovo_Bedroom_2_WIDE-LARGE-16-9.webp",
+        "/dark/assets/imgs/rosewood-castiglion-del-bosco/RWCDB_DroneBorgo_June2022_WIDE-LARGE-16-9.webp"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "background": "/dark/assets/imgs/african-safari/Stanleys-guest-area.jpg",
+    "link": "african-safari",
+    "place": "Botswana",
+    "type": "Experience",
+    "title": "African Safari",
+    "desc": {
+      "name": "African Safari",
+      "location": "Botswana",
+      "advance-booking": "1 month prior",
+      "category": "Adventure | Forest | Safari",
+      "subtext0": "Get ready for an epic adventure in the heart of Africa.",
+      "subtext1": "Explore Botswana's best national parks on thrilling game drives, tracking the Big Five. Glide through the lush Okavango Delta, a wildlife wonderland. Stay in luxury safari lodges, and don't miss two nights in the Moremi Game Reserve, the \"Predator Capital of the World.\"",
+      "list0": [
+        "Day 1 Arrive Johannesburg, South Africa",
+        "Day 2 Chobe National Park, Botswana | Chobe River Safari",
+        "Day 3 Game viewing along the river",
+        "Day 4 Okavango Delta | Wonders of a private reserve"
+      ],
+      "list1": [
+        "Day 5 Safari by vehicle or on Foot",
+        "Day 6 Encounters in the predator capital",
+        "Day 7 Remarkable game drives",
+        "Day 8 Depart Johannesburg, South Africa"
+      ],
+      "next": {
+        "link": "chateau-hattonchatel",
+        "title": "Château de Hattônchatel",
+        "type": "Ultra Luxe Stay"
+      },
+      "imgs": [
+        "/dark/assets/imgs/african-safari/1.jpg",
+        "/dark/assets/imgs/african-safari/Seven Colours Private Dining Room.jpg",
+        "/dark/assets/imgs/african-safari/andbeyond-chobe-under-canvas.webp",
+        "/dark/assets/imgs/african-safari/matthias-mullie-u2-97eBhFEc-unsplash.jpg",
+        "/dark/assets/imgs/african-safari/david-clode-qHliP9cWqx4-unsplash.jpg",
+        "/dark/assets/imgs/african-safari/Fairlawns Spa Hydro Pool.jpg",
+        "/dark/assets/imgs/african-safari/mariola-grobelska-eQdDUdi5qLk-unsplash.jpg",
+        "/dark/assets/imgs/african-safari/Sanctuary Stanley_s Camp.jpg",
+        "/dark/assets/imgs/african-safari/sanctuary-chobe-chilwero-chobe-botswana-africa.webp",
+        "/dark/assets/imgs/african-safari/Seven Colours Private Dining Room.jpg",
+        "/dark/assets/imgs/african-safari/Stanleys-guest-area.jpg",
+        "/dark/assets/imgs/african-safari/Tea in the Woods.jpg",
+        "/dark/assets/imgs/african-safari/Villa Moji Patio.jpg",
+        "/dark/assets/imgs/african-safari/Villa Moji Pool.jpg",
+        "/dark/assets/imgs/african-safari/Villa Suites.jpeg"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "background": "/dark/assets/imgs/chateau-hattonchatel/Château de Hattônchatel.jpg",
+    "link": "chateau-hattonchatel",
+    "place": "France",
+    "type": "Ultra Luxe Stay",
+    "title": "Château de Hattônchatel",
+    "desc": {
+      "name": "Château de Hattônchatel",
+      "location": "Nancy, France",
+      "category": "Superior rooms/Family suits",
+      "loyalty-points": null,
+      "built": "9th Century",
+      "subtext0": "Built on a hill, this magnificent castle overlooks the Woëvre valley and offers you a breathtaking panorama!",
+      "subtext1": "The castle offers an ideal vacation spot and features 10 spacious double rooms decorated with refinement. The French draped curtains, tapestry covered walls and authentic stone fireplaces are all in harmony with the period of the gothic castle. It is not simply a country château but a very unique and magical property, where its primary architecture originating in the 9th century and rebuilt in the 16th century.",
+      "list0": [
+        "Gardens",
+        "Panoramic views",
+        "Vine yard"
+      ],
+      "list1": [
+        "French cuisine",
+        "15 Suites",
+        "145300 Sqft land"
+      ],
+      "next": {
+        "link": "royal-indian-tour",
+        "title": "Royal Indian Tour",
+        "type": "Ultra Luxe Stay"
+      },
+      "imgs": [
+        "/dark/assets/imgs/chateau-hattonchatel/chateau-hattonchatel-28.jpg",
+        "/dark/assets/imgs/chateau-hattonchatel/Château de Hattônchatel.jpg",
+        "/dark/assets/imgs/chateau-hattonchatel/hattonchatel-dsc01872artipair-1920par1080.jpg",
+        "/dark/assets/imgs/chateau-hattonchatel/Hattonchâtel-Castle-Garden-©-French-Moments.jpg",
+        "/dark/assets/imgs/chateau-hattonchatel/nancy city square france.jpg",
+        "/dark/assets/imgs/chateau-hattonchatel/nil-castellvi-ZG5_505mUog-unsplash.jpg"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "background": "/dark/assets/imgs/royal-indian-tour/0 The Oberoi Amarvilas - day.jpg",
+    "link": "royal-indian-tour",
+    "place": "India",
+    "type": "Ultra Luxe Stay",
+    "title": "Royal Indian Tour",
+    "desc": {
+      "name": "Royal Indian Tour",
+      "location": "India",
+      "category": "India | Safari | Heritage",
+      "advance-booking": "1 month prior",
+      "subtext0": "A luxurious journey through India's Golden Triangle, where opulence awaits.",
+      "subtext1": "Stay at renowned hotels: Oberoi Rajvilas, Oberoi Amarvilas, and Oberoi Vanyavilas. Marvel at the Taj Mahal's beauty at sunrise and sunset. Explore Old Delhi with a thrilling rickshaw ride through Chandni Chowk. Finally, seek the elusive Bengal tiger on game drives in Ranthambore National Park.",
+      "list0": [
+        "Day 1 Arrive Delhi, India",
+        "Day 2 Delhi | Mughal Inspiration & Majesty",
+        "Day 3 Delhi | City Of Shahjahanabad",
+        "Day 4 Agra | The Incredible Taj Mahal",
+        "Day 5 Ranthambore National Park | Abandoned City"
+      ],
+      "list1": [
+        "Day 6 Ranthambore National Park | Royal Game Spotting",
+        "Day 7 Jaipur | Exciting Capital",
+        "Day 8 Jaipur | Artisan Magnet",
+        "Day 9 Jaipur | Pink City Treasures",
+        "Day 10 Depart Delhi"
+      ],
+      "next": {
+        "link": "case-eterea",
+        "title": "Casa Etérea",
+        "type": "Ultra Luxe Stay"
+      },
+      "imgs": [
+        "/dark/assets/imgs/royal-indian-tour/0 The Oberoi Amarvilas - day.jpg",
+        "/dark/assets/imgs/royal-indian-tour/annie-spratt-slTVVuk7hZU-unsplash.jpg",
+        "/dark/assets/imgs/royal-indian-tour/delhi parliament.jpg",
+        "/dark/assets/imgs/royal-indian-tour/MG-7940.webp",
+        "/dark/assets/imgs/royal-indian-tour/mitchell-ng-liang-an-OuMcfoYhSyE-unsplash.jpg",
+        "/dark/assets/imgs/royal-indian-tour/OBEROI-new-delhi_2019_Lobby---The-Oberoi,-New-Delhi-(3).webp"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "background": "/dark/assets/imgs/casa-eterea/1-scaled.jpg",
+    "link": "casa-eterea",
+    "place": "Mexico",
+    "type": "Ultra Luxe Stay",
+    "title": "Casa Etérea",
+    "desc": {
+      "name": "Casa Etérea",
+      "location": "San Miguel De Allende, Mexico",
+      "category": "Large space",
+      "loyalty-points": null,
+      "construction": "Glass walls",
+      "subtext0": "Casa Etérea is a beautiful and intimate space, that was designed without partition walls",
+      "subtext1": "The property is liveable installation art that uses mirrored panels to diffuse the boundaries between the wild and the structured. By distorting the perspective of where the observer begins and the landscape ends, the project aims to evoke a deep sense of awe and oneness with the wild, and to beg questions about our role as stewards in the preservation of our ecosystems.",
+      "list0": [
+        "Solar heater pool",
+        "Personal chef",
+        "ATV tour"
+      ],
+      "list1": [
+        "Couple massage",
+        "Private kitchen",
+        "1 Bedroom"
+      ],
+      "next": {
+        "link": "arctic-guest-house",
+        "title": "Arctic Guest House",
+        "type": "Ultra Luxe Stay"
+      },
+      "imgs": [
+        "/dark/assets/imgs/casa-eterea/1-scaled.jpg",
+        "/dark/assets/imgs/casa-eterea/12-scaled.jpg",
+        "/dark/assets/imgs/casa-eterea/Casa-Eterea-5.jpg",
+        "/dark/assets/imgs/casa-eterea/Casa-Eterea-7.jpg",
+        "/dark/assets/imgs/casa-eterea/Casa-Eterea-12.jpg",
+        "/dark/assets/imgs/casa-eterea/Casa-Eterea-13.jpg",
+        "/dark/assets/imgs/casa-eterea/Casa-Eterea-18.jpg"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "background": "/dark/assets/imgs/arctic-guest-house/404 igloo.jpg",
+    "link": "arctic-guest-house",
+    "place": "Finland",
+    "type": "Ultra Luxe Stay",
+    "title": "Arctic Guest House",
+    "desc": {
+      "name": "Arctic Guest House",
+      "location": "Ranua, Finland",
+      "category": "Igloos",
+      "loyalty-points": null,
+      "operation": "Since 1940",
+      "subtext1": "Surrender to the enchantment of Lapland in a whole new light. Nestled within a year-round free-floating glass igloo boat, your journey is a celestial ballet. As you lay in comfort, the ethereal northern lights waltz across the Arctic sky, painting an otherworldly masterpiece, making each night a dream beneath the stars.",
+      "subtext0": "Sleep under the dancing northern lights in a free-moving glass igloo boat in Scandinavian country",
+      "list0": [
+        "Sauna",
+        "Gym",
+        "Reindeer farm visit"
+      ],
+      "list1": [
+        "Husky sledge ride",
+        "Guided aurora hunting",
+        "Snow mobile ride"
+      ],
+      "next": {
+        "link": "cuixmala",
+        "title": "Cuixmala",
+        "type": "Ultra Luxe Stay"
+      },
+      "imgs": [
+        "/dark/assets/imgs/arctic-guest-house/404 igloo.jpg",
+        "/dark/assets/imgs/arctic-guest-house/alexandr-bormotin-w6KSwwnQyaE-unsplash.jpg",
+        "/dark/assets/imgs/arctic-guest-house/AuroraHut-glass-igloo-finland-lapland.jpg",
+        "/dark/assets/imgs/arctic-guest-house/aurorahut-glass-igloo-green-travel-option.jpg",
+        "/dark/assets/imgs/arctic-guest-house/elien-BNEtOD4JtJc-unsplash.jpg",
+        "/dark/assets/imgs/arctic-guest-house/IMG_8372.webp",
+        "/dark/assets/imgs/arctic-guest-house/outside.jpg",
+        "/dark/assets/imgs/arctic-guest-house/ozgu-ozden-jjOAzVRUJTM-unsplash.jpg",
+        "/dark/assets/imgs/arctic-guest-house/ranua-accommodation-winter-glass-igloo-inn.jpg",
+        "/dark/assets/imgs/arctic-guest-house/robert-tjalondo-ckoFnqmaw-E-unsplash.jpg",
+        "/dark/assets/imgs/arctic-guest-house/saad-chaudhry-pM2Hpsi-Hxs-unsplash.jpg",
+        "/dark/assets/imgs/arctic-guest-house/tapio-haaja-bpDJvls-h-0-unsplash.jpg"
+      ]
+    }
+  }
+]
